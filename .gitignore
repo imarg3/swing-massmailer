@@ -3,3 +3,6 @@
 target/*
 !target/massmailer-jar-with-dependencies.jar
 .DS_Store
+target/
+.project
+.settings
